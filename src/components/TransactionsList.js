@@ -4,9 +4,9 @@ import Transaction from "./Transaction";
 function TransactionsList(props) {
   const transactions=props.transactions
   return (
-    <table className="ui celled striped padded table">
+    <table >
       <tbody>
-        <tr>
+        { <tr>
           <th>
             <h3 className="ui center aligned header">Date</h3>
           </th>
@@ -19,7 +19,7 @@ function TransactionsList(props) {
           <th>
             <h3 className="ui center aligned header">Amount</h3>
           </th>
-        </tr>
+        </tr> }
 
         {transactions.map(transaction => {
           return (
