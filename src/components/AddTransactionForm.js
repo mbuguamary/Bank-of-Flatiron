@@ -29,7 +29,7 @@ function AddTransactionForm(props) {
   setState({
     ...state,
     [e.target.name]:
-    [e.target.value]
+     e.target.value
   });
   }
   return (
