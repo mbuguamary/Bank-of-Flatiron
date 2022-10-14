@@ -8,8 +8,8 @@ function AccountContainer() {
   
   useEffect(()=>{
     fetch("http://localhost:8001/transactions")
-    .then(res=>res.json())
-    .then(data=>{setTransactions(data);
+    .then(res => res.json())
+    .then(data => {setTransactions(data);
       
     });
   },[]);
