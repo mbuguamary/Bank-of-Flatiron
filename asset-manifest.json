@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-hooks-bank-of-flatiron-code-challenge/static/css/main.36b1c42b.chunk.css",
-    "main.js": "/react-hooks-bank-of-flatiron-code-challenge/static/js/main.35e338fd.chunk.js",
-    "main.js.map": "/react-hooks-bank-of-flatiron-code-challenge/static/js/main.35e338fd.chunk.js.map",
-    "runtime-main.js": "/react-hooks-bank-of-flatiron-code-challenge/static/js/runtime-main.0ff5c860.js",
-    "runtime-main.js.map": "/react-hooks-bank-of-flatiron-code-challenge/static/js/runtime-main.0ff5c860.js.map",
-    "static/css/2.97f319dd.chunk.css": "/react-hooks-bank-of-flatiron-code-challenge/static/css/2.97f319dd.chunk.css",
-    "static/js/2.5de55bf3.chunk.js": "/react-hooks-bank-of-flatiron-code-challenge/static/js/2.5de55bf3.chunk.js",
-    "static/js/2.5de55bf3.chunk.js.map": "/react-hooks-bank-of-flatiron-code-challenge/static/js/2.5de55bf3.chunk.js.map",
-    "index.html": "/react-hooks-bank-of-flatiron-code-challenge/index.html",
-    "static/css/2.97f319dd.chunk.css.map": "/react-hooks-bank-of-flatiron-code-challenge/static/css/2.97f319dd.chunk.css.map",
-    "static/css/main.36b1c42b.chunk.css.map": "/react-hooks-bank-of-flatiron-code-challenge/static/css/main.36b1c42b.chunk.css.map",
-    "static/js/2.5de55bf3.chunk.js.LICENSE.txt": "/react-hooks-bank-of-flatiron-code-challenge/static/js/2.5de55bf3.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/react-hooks-bank-of-flatiron-code-challenge/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/Bank-of-Flatiron/static/css/main.36b1c42b.chunk.css",
+    "main.js": "/Bank-of-Flatiron/static/js/main.35e338fd.chunk.js",
+    "main.js.map": "/Bank-of-Flatiron/static/js/main.35e338fd.chunk.js.map",
+    "runtime-main.js": "/Bank-of-Flatiron/static/js/runtime-main.fe24f0ac.js",
+    "runtime-main.js.map": "/Bank-of-Flatiron/static/js/runtime-main.fe24f0ac.js.map",
+    "static/css/2.07af5a20.chunk.css": "/Bank-of-Flatiron/static/css/2.07af5a20.chunk.css",
+    "static/js/2.5de55bf3.chunk.js": "/Bank-of-Flatiron/static/js/2.5de55bf3.chunk.js",
+    "static/js/2.5de55bf3.chunk.js.map": "/Bank-of-Flatiron/static/js/2.5de55bf3.chunk.js.map",
+    "index.html": "/Bank-of-Flatiron/index.html",
+    "static/css/2.07af5a20.chunk.css.map": "/Bank-of-Flatiron/static/css/2.07af5a20.chunk.css.map",
+    "static/css/main.36b1c42b.chunk.css.map": "/Bank-of-Flatiron/static/css/main.36b1c42b.chunk.css.map",
+    "static/js/2.5de55bf3.chunk.js.LICENSE.txt": "/Bank-of-Flatiron/static/js/2.5de55bf3.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Bank-of-Flatiron/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ff5c860.js",
-    "static/css/2.97f319dd.chunk.css",
+    "static/js/runtime-main.fe24f0ac.js",
+    "static/css/2.07af5a20.chunk.css",
     "static/js/2.5de55bf3.chunk.js",
     "static/css/main.36b1c42b.chunk.css",
     "static/js/main.35e338fd.chunk.js"
